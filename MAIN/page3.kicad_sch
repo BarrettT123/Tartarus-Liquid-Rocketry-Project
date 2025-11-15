@@ -6880,7 +6880,25 @@
 			"ADgAagBmAC8AcABtADgAegBpADMAZgA2AHkAUQAvAGYAWAA2AEgAZABZAGMAdAA3AGkAZQBpACsA"
 			"RgAvAHIAZgBIADgAbgBlAGYAOABWAGkAOQA2AEkAYQBCAEkASQBtAEkARQB0AEMAMABYAFQAZQA3"
 			"AGkATQBnAHkANgAvAGQAZAA5ADkAOQBkAGkAdABaAFIANwBzAFgAOQAyAFoAdgBPAGwAOQByAGUA"
-			"eAB1AGUAVQBIAGYAVwBNAFMAZwBPAGcAUgB3AEoANgBPAGoAZABWADAAKw=="
+			"eAB1AGUAVQBIAGYAVwBNAFMAZwBPAGcAUgB3AEoANgBPAGoAZABWADAAKwBOAHMAbABOAFMAUQA4"
+			"ADEARwBFAEwAQwBLAFEARgBxAGwALwBpAGoAdgBaAFoAWABiAFUAUQBZAEMARQBMAGkATQBRAEkA"
+			"aQBsAHYAbgBUAFQAZQBmADAAWgBrAE8AdgBQAHAAVQBQAGkAUgBUAEIARgBBADEAYwBCAEYAWgBy"
+			"AFIAdQAzAFQAeQAwAEIAVQBDAEUARQBpAE4AZwBNADcATwAwAEYAawBhAEkAWQA3AEwAcwAxAFAA"
+			"VwBUADYAKwAxAEMAbwBQAHAAZwBNAGYAVAAvAFIAMQBXADIAWQBzAHkARQBJAEIAQQBQAEEASQA2"
+			"AGkASwBJAGYAMABPAHQAKwBIAEwAcgBSAE8AYwBOAGUAQQBxAE4ARwBqAFoATAAxADYAOQBjAFgA"
+			"cABXAEMAVwBwAGIANABxADEAYQAvAEMAegBUAGUATQBLAFUAcgBmAE8ASgBQAEoAVABvAGwARABq"
+			"ADcAVQBRAFMASgBiAEEAUQAyAHUAYQBrAHgAVgBZAFEASgByAHAAYwBsACsAVQA5ADAAcgBWAG4A"
+			"VwB3AEcAQQBRAGkAVQBRAE8AQgAzAGYAKwAvADEARQBsAGEANQB1ADIAUQBvAEsAMABVADkAdQA5"
+			"AGYAUAA3ADAAZgA4AGMAOABrADYAYgA0AEkAcABGADYARgA3AFUAWAB2AE4AcABRAE8ARQByAGgA"
+			"QwBBAGcAUAAwAEUAbgBuADAAaABqAEsAYgB6AHUAVAB3AHgAUABEAHYAbAB3AFoAUgAvAEwATwBZ"
+			"ADcASABXAGsARQBPAHYAbwBYAFIAQwA4AHgAWQAvADkASgBSAGsATQBJAFEARQBBAC8AYgBCADgA"
+			"MwBiAHAAegBvAEIAdQBjAE0AdQB3AG4AbwBZAEoAZgBPAFQAaABrADkAZQBuAFIAawBSAGIATQBz"
+			"ADkAWABYAEcAWQBLAFoAawBMAGcAQwBtAEgANgBoAEcAQgBzADkARQBDAEEAUgBPAG8ASwAvAGoA"
+			"dwA3AEsANABhAGEAQQB3AFgAZQA2AEwAOABsADUAcABlAEoARQA5AEkAQQBDAEIATwBBAFMAcQBU"
+			"AHAAeQA1AHAAQwBSADUASABGAGsAdQByAE4AVgBaAEsAUwA3AG8ARwBWAFYASAByADQASQBwAGwA"
+			"UAB1AEsANgBuAGIAbQBRAFEAQQBDAG8AUgBEAFEAVwBTAGsAMQBKADgATgBwAE8AagArAFMAWAA0"
+			"AGQAbgBwADYAeQBkAGEAawA5AG0AUwBoAHEAQgBEAHQAMgBJAG4AZwBFAEIAQwBQAGgAQgBvAEwA"
+			"YQAyAFYAbABhAHUAWABDAGsAMQBOAGUAbQBWAFkAdgBLAEQAWABEAFoAVw=="
 		)
 	)
 	(global_label "SCL_PB21"
@@ -7596,6 +7614,80 @@
 				)
 				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/87e1a79d-c764-4fd6-83c5-39297e9d65b4"
 					(reference "#PWR0254")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 125.73 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ef744d1-f33c-494e-a598-bc455779ef00")
+		(property "Reference" "C1"
+			(at 128.27 48.2662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 128.27 50.8062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b232ff94-df5b-47e0-9172-286d75c989c1")
+		)
+		(pin "2"
+			(uuid "168544b2-e2cd-4655-8542-4f0de1d50c9b")
+		)
+		(instances
+			(project ""
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/74454ce8-b9af-4706-9252-bd7bd1e06e51"
+					(reference "C1")
+					(unit 1)
+				)
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/87e1a79d-c764-4fd6-83c5-39297e9d65b4"
+					(reference "C3")
 					(unit 1)
 				)
 			)
