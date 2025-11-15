@@ -7694,6 +7694,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 106.68 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50e073f8-b873-45bf-a6ed-72cd49729963")
+		(property "Reference" "C90"
+			(at 109.22 73.6662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 109.22 76.2062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ab5becc-ef1c-4a0d-8c40-38a37d96402d")
+		)
+		(pin "2"
+			(uuid "4b27d68e-58ae-4fde-ae2e-874a194d6360")
+		)
+		(instances
+			(project "MAIN"
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/74454ce8-b9af-4706-9252-bd7bd1e06e51"
+					(reference "C90")
+					(unit 1)
+				)
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/87e1a79d-c764-4fd6-83c5-39297e9d65b4"
+					(reference "C91")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Instrumentation:INA333xxDRG")
 		(at 95.25 45.72 0)
 		(unit 1)
@@ -8423,6 +8497,80 @@
 				)
 				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/87e1a79d-c764-4fd6-83c5-39297e9d65b4"
 					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 81.28 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0c3d83e-eafe-4a51-bdcf-bd653ad17bb6")
+		(property "Reference" "C88"
+			(at 83.82 91.4462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C_Small"
+			(at 83.82 93.9862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c198ae84-e850-4257-abbf-5b95eb451394")
+		)
+		(pin "2"
+			(uuid "ad78609c-0059-4a59-adda-67b01b60da81")
+		)
+		(instances
+			(project "MAIN"
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/74454ce8-b9af-4706-9252-bd7bd1e06e51"
+					(reference "C88")
+					(unit 1)
+				)
+				(path "/906e79d2-f21c-41e4-84cb-e799c410b05f/87e1a79d-c764-4fd6-83c5-39297e9d65b4"
+					(reference "C89")
 					(unit 1)
 				)
 			)
