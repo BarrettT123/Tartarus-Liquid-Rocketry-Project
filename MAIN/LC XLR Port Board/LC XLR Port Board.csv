@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2","2","10uF","","","","Capacitor_SMD:C_0603_1608Metric","~"
+"IC1","1","RTQ2569-90GQW-QA","","","","RTQ2569-90GQW-QA:SON65P300X300X80-9N","https://www.richtek.com/assets/product_file/RTQ2569-QA/DSQ2569-QA-02.pdf"
+"J1","1","IO-XLR5-F-EH","","","","Barrett_Footprints:CONN_IO-XLR5-F-EH_ORI","IO-XLR5-F-EH"
+"J2","1","S05B-PASK-2LFSN","","","","Barrett_Footprints:CONN_S05B-PASK-2_JST","S05B-PASK-2LFSN"

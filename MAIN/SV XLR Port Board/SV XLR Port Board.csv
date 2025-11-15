@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2,C3,C4,C5,C6","6","22uF","","","","Capacitor_SMD:C_0805_2012Metric","~"
+"IC1,IC2","2","SN74LV1T126QDCKRQ1","","","","Barrett_Footprints:SOT65P210X110-5N","http://www.ti.com/lit/gpn/sn74lv1t126"
+"J1,J2,J3,J4,J5,J6,J7,J8","8","XLR3_tartarus","","","","Barrett_Footprints:AC3FAH1-AU-PRE (3)","~"
+"J9,J11","2","S08B-PASK-2 LFSN","","","","Barrett_Footprints:CONN_S08B-PASK-2_JST","S08B-PASK-2 LFSN"
+"J10,J12","2","S06B-PASK-2 LFSN","","","","Barrett_Footprints:CONN6_S06B-PASK-2 LFSN_JST","S06B-PASK-2 LFSN"
+"J13,J14","2","B03B-PASK-1_LF__SN_","","","","Barrett_Footprints:B03BPASK1LFSN","http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf"
